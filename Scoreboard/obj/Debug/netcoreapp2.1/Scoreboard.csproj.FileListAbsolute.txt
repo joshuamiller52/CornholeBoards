@@ -1,0 +1,11 @@
+D:\Git\CornholeScoreboard\Scoreboard\bin\Debug\netcoreapp2.1\Scoreboard.deps.json
+D:\Git\CornholeScoreboard\Scoreboard\bin\Debug\netcoreapp2.1\Scoreboard.runtimeconfig.json
+D:\Git\CornholeScoreboard\Scoreboard\bin\Debug\netcoreapp2.1\Scoreboard.runtimeconfig.dev.json
+D:\Git\CornholeScoreboard\Scoreboard\bin\Debug\netcoreapp2.1\Scoreboard.dll
+D:\Git\CornholeScoreboard\Scoreboard\bin\Debug\netcoreapp2.1\Scoreboard.pdb
+D:\Git\CornholeScoreboard\Scoreboard\obj\Debug\netcoreapp2.1\Scoreboard.csprojAssemblyReference.cache
+D:\Git\CornholeScoreboard\Scoreboard\obj\Debug\netcoreapp2.1\Scoreboard.csproj.CoreCompileInputs.cache
+D:\Git\CornholeScoreboard\Scoreboard\obj\Debug\netcoreapp2.1\Scoreboard.AssemblyInfoInputs.cache
+D:\Git\CornholeScoreboard\Scoreboard\obj\Debug\netcoreapp2.1\Scoreboard.AssemblyInfo.cs
+D:\Git\CornholeScoreboard\Scoreboard\obj\Debug\netcoreapp2.1\Scoreboard.dll
+D:\Git\CornholeScoreboard\Scoreboard\obj\Debug\netcoreapp2.1\Scoreboard.pdb

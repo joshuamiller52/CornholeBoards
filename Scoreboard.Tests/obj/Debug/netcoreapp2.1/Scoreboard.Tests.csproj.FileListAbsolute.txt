@@ -1,0 +1,17 @@
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.csprojAssemblyReference.cache
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.csproj.CoreCompileInputs.cache
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.AssemblyInfoInputs.cache
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.AssemblyInfo.cs
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.Tests.deps.json
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.Tests.runtimeconfig.json
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.Tests.runtimeconfig.dev.json
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.Tests.dll
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.Tests.pdb
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.dll
+D:\Git\CornholeScoreboard\Scoreboard.Tests\bin\Debug\netcoreapp2.1\Scoreboard.pdb
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.csproj.CopyComplete
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.dll
+D:\Git\CornholeScoreboard\Scoreboard.Tests\obj\Debug\netcoreapp2.1\Scoreboard.Tests.pdb
